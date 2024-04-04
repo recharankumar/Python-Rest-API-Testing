@@ -1,0 +1,14 @@
+pip install PyGithub requests
+
+
+
+
+
+python Test.py
+
+
+
+
+
+
+python Github_Repo.py
